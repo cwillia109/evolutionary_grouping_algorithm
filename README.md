@@ -1,6 +1,6 @@
 # evolutionary strategies algorithm
 
-Running the Python file directly is an option if everything is installed correctly, if not, use the release posted on GitHub.
+Running the Python file directly is an option if everything is installed correctly.
 
 Python download: https://www.python.org/downloads/release/python-386/
 
